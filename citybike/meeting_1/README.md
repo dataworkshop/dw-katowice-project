@@ -15,12 +15,14 @@ In this module, you can find:
 <h3> During the first meeting we have completed the following tasks:</h3>
 
 + load the 2018 rental data and check basic info (p.ex. the shape of dataframe)
-+ check the average time for bikes' rentals
-+ check the number of free bikes' rentals (under 15 minutes)
-+ check the id of most popular bike (rented the most)
-+ check the number of rentals per station
-+ check most popular routes (departure-return)
 + check the average weekly/monthly rental's number 
++ check the average/median time for bikes' rentals
++ check the number of free bikes' rentals (under 15 minutes)
++ check if there is a difference between working days, weekends and holidays
++ check the number  and time of rentals for hour intervals
++ check the id of most popular bike (rented the most)
++ check most popular routes (departure-return)
+
 
 <h3>HOMEWORK:</h3>
 
