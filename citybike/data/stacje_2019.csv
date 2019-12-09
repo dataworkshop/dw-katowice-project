@@ -1,0 +1,77 @@
+name,station_id,lat,lon,capacity,flag
+Al. Bolesława Krzywoustego,5870,50.2750609,18.9805487,12,
+Al. Księcia Henryka Pobożnego,5871,50.2801254,18.9737402,12,
+Al. Księżnej Jadwigi Śląskiej,5872,50.2841958,18.9678905,12,
+Armii Krajowej/Jankego,5893,50.208442,18.9738566,12,
+Bogucice Szpital,5885,50.2687742,19.0386906,12,
+NOSPR,5868,50.265282,19.0286349,12,
+Dolina 3-ch Stawów,5869,50.2332173,19.0278122,12,
+Galeria 3 Stawy,5897,50.2435531,19.0362906,12,stacja partnerska
+Giszowiec – Plac Pod Lipami,5864,50.2219261,19.0647268,12,
+GPP Business Park,5877,50.283093,19.0272936,12,stacja partnerska
+Green Park,5898,50.2554938,19.0475732,15,stacja partnerska
+ING Roździeńska,5874,50.26205,19.075126,10,stacja partnerska
+ING Sokolska,5861,50.265272,19.016265,26,stacja partnerska
+Katowice Rynek,5867,50.2586968,19.0216184,24,
+Kokociniec SP nr 67,5887,50.234985,18.9594876,12,
+Kostuchna – Bażantów,5854,50.2005462,18.991386,12,
+Kostuchna – Boże Dary,5856,50.183717,18.997722,12,
+Kostuchna – Rondo Rostworowskiego,5853,50.200024,18.977245,12,
+Kostuchna – Szarych Szeregów,5855,50.1936046,18.9907024,12,
+Koszutka – Plac Gwarków,5858,50.2703969,19.0247514,12,
+KTBS – Krasińskiego,5883,50.2551631,19.0371209,12,stacja partnerska
+KTBS – Saint Etienne,5884,50.2611859,19.0560131,12,stacja partnerska
+Łętowskiego S.P. nr 27,5894,50.2049446,18.9862648,12,
+Ligota Centrum Przesiadkowe,5888,50.22621,18.97576,12,dawniej Ligota Dworzec PKP
+Ligota Medyków,5890,50.2266646,18.9585549,12,
+Ligota Wczasowa,5889,50.2187842,18.968023,12,
+Chorzowska Park Budnioka,5881,50.267405,19.013105,12,
+Mariacka Kościół,5880,50.2572153,19.0286454,12,
+Murcki – Rynek Murckowski,5865,50.1983719,19.0427391,12,
+Nikiszowiec – Szyb Wilson,5852,50.251038,19.083098,12,dawniej Nikiszowiec – Św. Anny
+Nikiszowiec Skwer Zillmannów ,5863,50.243777,19.082881,12,dawniej Nikiszowiec Lodowiski Jantor
+Os. Kukuczki – Skwer Koszycki,5851,50.2696,19.04686,12,
+Os. Ptasie – ul. Słowików,5849,50.231582,18.997561,12,dawniej Os. Ptasie – ul. Drozdów
+Os. Ptasie – ul. Gawronów,5848,50.2372626,19.0045303,12,
+Os. Witosa – ul. Rataja,5850,50.2625939,18.9716948,12,
+Gawrony,5896,50.2313,18.96547,12,dawniej Osiedle Franciszkańskie
+Osiedle Witosa – Plac Herberta,5866,50.259698,18.9685641,12,
+Park Kościuszki,5873,50.2468121,19.0098855,12,
+Piotrowice V L.O.,5892,50.2146385,18.9900657,12,
+Plac Sejmu Śląskiego,5876,50.2538403,19.0237909,12,
+Plac Wolności,5847,50.25969,19.01451,12,
+Podlesie – Stary Most,5857,50.1743932,18.9707383,12,
+Politechnika Śląska,5882,50.2554029,19.0322917,12,stacja partnerska
+Silesia Business Park,5879,50.269922,18.9981936,12,stacja partnerska
+Silesia City Center,5878,50.2695754,19.0037077,18,stacja partnerska
+Skwer Bolesława Szabelskiego,5886,50.2254014,18.9700364,12,
+Szopienice – Plac Powstańców Śląskich,5862,50.2624464,19.0950876,12,
+Ul. Powstańców – Biblioteka Śląska,5875,50.2516468,19.0311023,12,
+Zadole Kościół,5891,50.2192865,18.9762528,12,
+Załęże Skwer S. Barei,5895,50.2630759,19.0046196,12,
+Załęska Hałda,5809,50.25027,18.98495,12,z Budżetu Obywatelskiego 2019
+Grzyśki Biblioteka,5810,50.23079,18.9805,12,z Budżetu Obywatelskiego 2019
+Kossak Szczuckiej - Rolna,5811,50.23109,18.98976,12,z Budżetu Obywatelskiego 2019
+Paderewskiego – Sikorskiego,5812,50.252375,19.039004,12,z Budżetu Obywatelskiego 2019
+Paderewskiego – Szeptyckiego,5813,50.2491,19.03767,12,z Budżetu Obywatelskiego 2019
+Graniczna Targowisko,5814,50.247717,19.033266,12,z Budżetu Obywatelskiego 2019
+Dąb Kościół,5815,50.271043,18.997262,12,z Budżetu Obywatelskiego 2019
+Dębowa – Skwer Pająka,5816,50.276546,19.00235,12,z Budżetu Obywatelskiego 2019
+Szczecińska – Nowowiejskiego,5817,50.279178,19.011047,12,z Budżetu Obywatelskiego 2019
+Bytomska – Józefowska,5818,50.286023,19.011324,12,z Budżetu Obywatelskiego 2019
+Korczaka – Andersa,5819,50.27702,19.08918,12,z Budżetu Obywatelskiego 2019
+Grota Roweckiego – Stellera,5820,50.184438,18.952066,12,z Budżetu Obywatelskiego 2019
+Urząd Miasta Francuska 70,6151,50.245622,19.026313,12,od 1 lipca 2019
+Bracka - Gliwicka,6152,50.267608,18.989237,12,od 1 lipca 2019
+Bukszpanowa - Tunelowa,6153,50.198591,18.970746,12,od 1 lipca 2019
+Uniczowska PKP,6154,50.183793,18.959901,12,od 1 lipca 2019
+Plac Hlonda,6155,50.252258,19.009558,12,od 1 lipca 2019
+Plac Miarki,6156,50.254963,19.019014,12,od 1 lipca 2019
+Plac Grunwaldzki,6157,50.267901,19.022874,12,od 1 lipca 2019
+Panewnicka Szkoła Podstawowa 9,6158,50.230242,18.947707,12,od 1 lipca 2019
+Techników SMS,6159,50.273752,19.062611,12,od 1 lipca 2019
+Kolista Giszowiec,6160,50.228544,19.059843,12,od 1 lipca 2019
+KTBS – Osiedle Sławka,5859,50.2637,18.97366,12,stacja partnerska
+KTBS – Osiedle Pod Kasztanami,5860,50.221262,19.074588,12,stacja partnerska
+DH Supersam,5845,50.262413,19.01976,12,stacja partnerska
+Galeria Libero,6161,50.223729,18.984595,8,stacja partnerska
