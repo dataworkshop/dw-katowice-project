@@ -1,6 +1,10 @@
 <h1> MEETING no 1. Introduction, data overview, first insight.</h1>
 
-In this module, you can find the Pandas cheatsheets, the PDF with list of tasks and the PDF with an overview of the rental system.
+In this module, you can find:
++ the PDF with list of tasks and the PDF with an overview of the rental system.
++ the Pandas cheatsheets
++ the notebooks with code and comments
++ the csv files with data
 
 <h3> Things to do before the meeting:</h3>
 
@@ -8,7 +12,7 @@ In this module, you can find the Pandas cheatsheets, the PDF with list of tasks 
 + Make sure you have Python 3.
 + Make sure you have pandas, numpy and datetime libraries installed.
 
-<h3> During the first meeting we completed the following tasks:</h3>
+<h3> During the first meeting we have completed the following tasks:</h3>
 
 + load the 2018 rental data and check basic info (p.ex. the shape of dataframe)
 + check the average time for bikes' rentals
