@@ -3,8 +3,9 @@
 In this module, you can find:
 + the PDF with list of tasks and the PDF with an overview of the rental system.
 + the Pandas cheatsheets
-+ the notebooks with code and comments
 + the csv files with data
+
+All the necessary csv files are in [data](https://github.com/dataworkshop/dw-katowice-project/tree/master/citybike/data) directory 
 
 <h3> Things to do before the meeting:</h3>
 
