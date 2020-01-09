@@ -20,7 +20,9 @@ Adrjan [Github](https://github.com/AardJan)
 Amarak [Github](https://github.com/AnjaliRavenly) \
 Eric N [Github](https://github.com/Wilkun)\
 Rafał Błaszczyk [Github](Github.com/Rafal23)\
-Sebastian Płaczek [Github](https://github.com/Sebastian-Placzek)
+Sebastian Płaczek [Github](https://github.com/Sebastian-Placzek) \
+Marcin Pastecki [Github](https://github.com/mrccode)
+
 
 To be continued...
 
