@@ -2,7 +2,7 @@
 
 ## Our projects: 
 
-1. [Analysis of bicycles in Katowice](https://ToBeBontinued/sorry),
+1. [Analysis of bicycles in Katowice](https://github.com/dataworkshop/dw-katowice-project/tree/master/citybike),
 
 ## About our group:
 - [Slack #katowice](https://app.slack.com/client/TCCTN4HU3/CG9MUSU3C)
