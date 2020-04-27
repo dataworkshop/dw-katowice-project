@@ -1,13 +1,7 @@
-## Miejsce na notatki, sprawozdania, diagramy - wkrótce powstanie raport.
+## Projekt został zakończony!
 
-Punkty do opisania:
-1. jaki byl cel
-2. skad wzielismy dane
-3. jakie byly dane
-4. ktore dane wyrzucilismy
-5. co z nimi zrobilismy (jkaie przeksztacenia)
-6. do jakich doszlimy wniosków
-7. jakie pozyskalismy dane dodatkowo?
-8. co mozna jeszcze zrobic z tymi danymi?
-9. czego sie nauczylismy
-10. jaka forme mialy spotkania
+Znajdziecie tutaj:
+1. jupyter notebook ze wszystkimi wykonanymi przez nas operacjami - 2018_analysis.ipynb
+2. plik zawierający 'czyste liczby' wyciągnięte z analizy - czyste_liczby.pdf
+3. plik zawierający nieco szerszy opis problemu - report.pdf
+4. infografikę, zbierającą w jednym miejscu uzyskane dane i wnioski - katowice_city_bike.pdf
