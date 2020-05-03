@@ -15,3 +15,5 @@ To get data file, contact Adrian (slack: @Adrjan)
 + check data in each column and clean it - convert to categorical, boolean values
 + check missing data and think about how to deal with them
 + check project's board https://github.com/dataworkshop/dw-katowice-project/projects/1 to see tasks
+
+You will find here a jupyter notebook with a sketch that should help you to start ;)
