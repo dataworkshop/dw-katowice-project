@@ -3,6 +3,7 @@
 ## Our projects: 
 
 1. [Analysis of bicycles in Katowice](https://github.com/dataworkshop/dw-katowice-project/tree/master/citybike),
+2. [Analysis of road accidents in silesia](https://github.com/dataworkshop/dw-katowice-project/tree/master/accidents)
 
 ## About our group:
 - [Slack #katowice](https://app.slack.com/client/TCCTN4HU3/CG9MUSU3C)
