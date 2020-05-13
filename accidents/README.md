@@ -12,10 +12,11 @@ Po uzupełnieniu formularza i przesłaniu go wyślemy dane do Ciebie na twój ad
 
 ## Meetings
 ZOOM: katowice
-| No | Date  |  Meeting link\ Place | Data folder  |
-|---|---|---|---|
-|  0 | 01.04.2020  | ZOOM  | Nan  |
-|  1 | 29.04.2020  | ZOOM  |  [Folder_1](https://github.com/dataworkshop/dw-katowice-project/tree/master/accidents/meeting_1) |
-|  2 | 13.05.2020  | ZOOM   | Nan  |
-|  3 | 27.05.2020 | [ZOOM](https://us02web.zoom.us/j/84066657236)  |  Nan |
+| No | Date  |  Meeting link\ Place | Data folder  | Info(PL) |
+|---|---|---|---|---|
+|  0 | 01.04.2020  | ZOOM  | Nan  ||
+|  1 | 29.04.2020  | ZOOM  |  [Folder_1](https://github.com/dataworkshop/dw-katowice-project/tree/master/accidents/meeting_1) ||
+|  2 | 13.05.2020  | ZOOM   | Nan  ||
+|  3 | 27.05.2020 | [ZOOM](https://us02web.zoom.us/j/84066657236)  |  Nan ||
+
 ...
