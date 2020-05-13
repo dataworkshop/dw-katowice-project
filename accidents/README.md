@@ -16,5 +16,6 @@ ZOOM: katowice
 |---|---|---|---|
 |  0 | 01.04.2020  | ZOOM  | Nan  |
 |  1 | 29.04.2020  | ZOOM  |  [Folder_1](https://github.com/dataworkshop/dw-katowice-project/tree/master/accidents/meeting_1) |
-|  2 | 13.05.2020  | [ZOOM](https://us02web.zoom.us/j/89155676366)   | Nan  |
-|  3 | 27.05.2020 | ZOOM  |  Nan |
+|  2 | 13.05.2020  | ZOOM   | Nan  |
+|  3 | 27.05.2020 | [ZOOM](https://us02web.zoom.us/j/84066657236)  |  Nan |
+...
