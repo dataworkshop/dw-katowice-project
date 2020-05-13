@@ -1,6 +1,3 @@
-HELLO
-
-
 ## Project data
 EN:
 <br />
@@ -12,3 +9,12 @@ PL:
 Z powodu ograniczeń prawnych nie możemy opublikować tych danych. 
 Jeśli chcesz je pobrać, kliknij ten [link](https://docs.google.com/forms/d/e/1FAIpQLSePeD4xM-5LxUgQXrS51i52Bi0JPqV6Bq0yZ067sq7yMI2g1A/viewform). 
 Po uzupełnieniu formularza i przesłaniu go wyślemy dane do Ciebie na twój adres e-mail.
+
+## Meetings
+ZOOM: katowice
+| No | Date  |  Meeting link\ Place | Data folder  |
+|---|---|---|---|
+|  0 | 01.04.2020  | ZOOM  | Nan  |
+|  1 | 29.04.2020  | ZOOM  |  [Folder_1](https://github.com/dataworkshop/dw-katowice-project/tree/master/accidents/meeting_1) |
+|  2 | 13.05.2020  | [ZOOM](https://us02web.zoom.us/j/89155676366)   | Nan  |
+|  3 | 27.05.2020 | ZOOM  |  Nan |
