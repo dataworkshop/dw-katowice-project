@@ -1,6 +1,6 @@
 <h1> MEETING no 1. Introduction, data overview.</h1>
 
-To get data file, contact Adrian (slack: @Adrjan)
+To get data file, fill in our online [form](https://docs.google.com/forms/d/e/1FAIpQLSePeD4xM-5LxUgQXrS51i52Bi0JPqV6Bq0yZ067sq7yMI2g1A/viewform), if you have any problems contact Adrian (slack: @Adrjan)
 
 <h3> Necessary software:</h3>
 
