@@ -15,8 +15,8 @@ ZOOM: katowice
 | No | Date  |  Meeting link\ Place | Data folder  | Info(PL) |
 |---|---|---|---|---|
 |  0 | 01.04.2020  | ZOOM  | Nan  ||
-|  1 | 29.04.2020  | ZOOM  |  [Folder_1](https://github.com/dataworkshop/dw-katowice-project/tree/master/accidents/meeting_1) ||
-|  2 | 13.05.2020  | ZOOM   | Nan  ||
+|  1 | 29.04.2020  | ZOOM  |  [Meeting 1 files](https://github.com/dataworkshop/dw-katowice-project/tree/master/accidents/meeting_1) ||
+|  2 | 13.05.2020  | ZOOM   |  [Meeting 2 files](https://github.com/dataworkshop/dw-katowice-project/tree/master/accidents/meeting_2) ||
 |  3 | 27.05.2020 | [ZOOM](https://us02web.zoom.us/j/84066657236)  |  Nan ||
 
 ...
