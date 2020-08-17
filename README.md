@@ -12,7 +12,7 @@
 
 ## Team:
 ### Mentor:
-Anna Cibis [Github](https://github.com/ymra)
+Anna Cibis [Github](https://github.com/acibis)
 
 ### Cordinator:
 Adrjan [Github](https://github.com/AardJan)
